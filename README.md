@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Blingoose
 - 👀 I’m interested in People, Web development and Cyber security.
-- 🌱 I’m currently learning JavaScript (Pre course bootcamp - appleseeds.org.il)
+- 🌱 I’m currently learning JavaScript (Bootcamp - appleseeds.org.il)
 
 
 <!---

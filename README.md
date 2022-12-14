@@ -10,9 +10,10 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=vue">
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default">
 </picture>
+
 
 <picture>
   

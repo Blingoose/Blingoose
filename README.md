@@ -20,9 +20,9 @@
 </br>
 </br>
                                                                                                                           
-<picture>
-  <img alt="skills showcase" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,sass,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=dark">
-</picture>
+
+[<img alt="skills showcase" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,sass,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=dark">](#)
+
 
 
 <!---

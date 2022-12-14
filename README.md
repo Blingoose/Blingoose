@@ -16,7 +16,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Blingoose/Blingoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

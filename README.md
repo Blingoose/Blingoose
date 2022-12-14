@@ -13,7 +13,6 @@
   srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=gradient"
   media="(prefers-color-scheme: light), (prefers-color-scheme: gradient)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
 </picture>
 
 <!---

@@ -10,7 +10,7 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=gradient"
+  srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=vue"
   media="(prefers-color-scheme: light)"
 />
   <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />

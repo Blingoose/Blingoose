@@ -20,11 +20,8 @@
 </br>
 </br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=dark)">
-  <source media="(prefers-color-scheme: light)" srcset="![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=light)">
-  <img alt="skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,sass,emotion,mongodb,express,firebase,linux,docker,bash,vim">
-</picture>
+![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,sass,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=dark)
+
 
 
 <!---

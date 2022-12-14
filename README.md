@@ -13,10 +13,11 @@
   srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=vue"
   media="(prefers-color-scheme: light)"
 />
+   <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=radical)]
 
 <!---
 Blingoose/Blingoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

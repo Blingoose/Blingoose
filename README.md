@@ -5,10 +5,23 @@
 
 
 <picture>
-<source
+  <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=radical"
   media="(prefers-color-scheme: dark)"
+  />
+  
+  <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=vue"
+  media="(prefers-color-scheme: dark)"
 />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default" />
+  
+</picture>
+
+
+<picture>
+
 <source 
   
   srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=radical"
@@ -16,15 +29,9 @@
 />
   
 <source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=vue"
-  media="(prefers-color-scheme: dark)"
-/>
-  
-<source
   srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=vue"
   media="(prefers-color-scheme: light)"
 />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default" />
   <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
 </picture>
 

@@ -17,10 +17,10 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default" />
   
-</picture>
 
 
-<picture>
+
+
 
 <source 
   

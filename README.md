@@ -10,19 +10,11 @@
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default">
 </picture>
 
+
 <picture>
-  
-<source 
-  
-  srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=radical"
-  media="(prefers-color-scheme: dark)"
-/>
-  
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=vue"
-  media="(prefers-color-scheme: light)"
-/>
-  <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=vue">
+  <img alt="top languages" src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true">
 </picture>
 
 

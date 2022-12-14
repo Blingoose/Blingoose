@@ -17,6 +17,13 @@
   <img alt="top languages" src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,html,css,nodejs,react,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,html,css,nodejs,react,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=light">
+  <img alt="skills" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,emotion,mongodb,express,firebase,linux,docker,bash,vim">
+</picture>
+
+
 
 <!---
 Blingoose/Blingoose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

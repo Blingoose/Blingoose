@@ -2,7 +2,7 @@
 - 👀 I’m interested in People, Web development and Cyber security.
 - 🌱 Currently learning JavaScript (Bootcamp - appleseeds.org.il)
 
-![Blingoose GitHub stats](https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=radical)
+
 
 <picture>
 <source 
@@ -11,8 +11,9 @@
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=gradient"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: gradient)"
+  media="(prefers-color-scheme: gradient)"
 />
+  <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
 </picture>
 
 <!---

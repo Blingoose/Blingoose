@@ -6,14 +6,16 @@
 
 <picture>
 <source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=radical"
   srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=radical"
   media="(prefers-color-scheme: dark)"
 />
 <source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default&theme=vue"
   srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=vue"
   media="(prefers-color-scheme: light)"
 />
-   <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&layout=default" />
   <img src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true" />
 </picture>
 

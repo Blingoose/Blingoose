@@ -3,11 +3,10 @@
 - 🌱 Currently learning Fullstack Web Development.
 
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blingoose&theme=radical">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blingoose&theme=vue">
-  <img height="200" alt="top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blingoose">
+  <source media="(prefers-color-scheme: dark)" srcset="https://svgshare.com/i/pTo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://svgshare.com/i/pTc.svg">
+  <img alt="placeholder" src="https://svgshare.com/i/pTo.svg">
 </picture>
 
 <picture>
@@ -24,11 +23,10 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://svgshare.com/i/pTo.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://svgshare.com/i/pTc.svg">
-  <img alt="placeholder" src="https://svgshare.com/i/pTo.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blingoose&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blingoose&theme=vue">
+  <img height="200" alt="top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=blingoose">
 </picture>
-
 
 </br>
 </br>

@@ -18,7 +18,6 @@
   <img height="200" alt="top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blingoose&show_icons=true">
 </picture>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=blingoose&theme=radical">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=blingoose&theme=vue">

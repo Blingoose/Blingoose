@@ -24,9 +24,8 @@
 </picture>
 
 <picture>
-<img alt="placeholder" src="https://user-images.githubusercontent.com/108837766/212122661-46c62c38-fd4d-4817-a3e5-81add0f09113.svg">
+<img alt="placeholder" src="https://svgshare.com/i/pTo.svg">
 </picture>
-
 
 
 </br>

@@ -1,3 +1,6 @@
+<sub align="center"><sup>This page supports dark/light mode</sup></sub>
+
+
 - 👋 Hi, I’m @Blingoose
 - 👀 I’m interested in People, Web development and Cyber security.
 - 🌱 Currently learning Fullstack Web Development.

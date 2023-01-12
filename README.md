@@ -24,7 +24,7 @@
 </picture>
 
 <picture>
-  <img alt="placeholder" src="https://user-images.githubusercontent.com/108837766/212121366-fb795b99-4649-45cc-9090-55b6d10e338f.svg">
+  <img alt="placeholder" src="https://user-images.githubusercontent.com/108837766/212121982-2743f3be-ef4a-42f0-bdc5-88521cfd1f83.svg">
 </picture>
 
 </br>

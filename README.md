@@ -23,9 +23,9 @@
   <img height="200"alt="top languages" src="https://streak-stats.demolab.com/?user=blingoose">
 </picture>
 
-
- ![guthub-place-holder](https://user-images.githubusercontent.com/108837766/212122661-46c62c38-fd4d-4817-a3e5-81add0f09113.svg)
-
+<picture>
+<img alt="placeholder" src="https://user-images.githubusercontent.com/108837766/212122661-46c62c38-fd4d-4817-a3e5-81add0f09113.svg">
+</picture>
 
 
 </br>

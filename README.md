@@ -5,16 +5,16 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Blingoose&theme=radical">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Blingoose&theme=vue">
-  <img height="200" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blingoose">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&theme=radical">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose&theme=vue">
+  <img height="200" alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blingoose">
 </picture>
 
  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=radical">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true&theme=vue">
-  <img height="200" alt="top languages" src="https://github-readme-stats.vercel.app/api?username=Blingoose&show_icons=true">
+  <img height="200" alt="top languages" src="https://github-readme-stats.vercel.app/api?username=blingoose&show_icons=true">
 </picture>
                                                                                                                           
 </br>

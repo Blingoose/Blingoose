@@ -1,4 +1,4 @@
-<sub align="center"><sup>This page supports dark/light mode</sup></sub>
+<sub><sup>This page supports dark/light mode</sup></sub>
 
 
 - 👋 Hi, I’m @Blingoose

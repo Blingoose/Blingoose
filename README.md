@@ -15,7 +15,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blingoose&show_icons=true&theme=radical">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.-git-masterrstaa-rickstaavercel.app/api?username=blingoose&show_icons=true&theme=vue">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaavercel.app/api?username=blingoose&show_icons=true&theme=vue">
   <img height="200" alt="top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=blingoose&show_icons=true">
 </picture>
 

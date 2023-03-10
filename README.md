@@ -8,9 +8,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://svgshare.com/i/pox.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://svgshare.com/i/pnY.svg">
-  <img alt="placeholder" src="https://svgshare.com/i/pox.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://svgshare.com/i/r2R.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://svgshare.com/i/r0X.svg">
+  <img alt="placeholder" src="https://svgshare.com/i/r2R.svg">
 </picture>
 
 <picture>
@@ -33,5 +33,5 @@
 
 </br>
 
-  <img width="760" alt="skills showcase" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,sass,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=dark">
+  <img width="724" alt="skills showcase" src="https://skillicons.dev/icons?i=js,html,css,nodejs,react,sass,emotion,mongodb,express,firebase,linux,docker,bash,vim&theme=dark">
 

@@ -8,9 +8,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://svgshare.com/i/r2R.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://svgshare.com/i/r0Y.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://svgshare.com/i/r0X.svg">
-  <img alt="placeholder" src="https://svgshare.com/i/r2R.svg">
+  <img alt="placeholder" src="https://svgshare.com/i/r0Y.svg">
 </picture>
 
 <picture>

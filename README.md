@@ -4,7 +4,6 @@
 - 👋 Hi, I’m @Blingoose
 - 👀 I’m interested in People, Web development and Cyber security.
 - 🌱 Currently learning Fullstack Web Development.
-- ✉️ andy.katov@icloud.com
 
 
 <picture>
